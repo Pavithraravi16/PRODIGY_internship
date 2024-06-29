@@ -2,7 +2,7 @@
 
 This project was given by [Prodigy Infotech](https://prodigyinfotech.dev/) as Task 1.
 
-See [Demo](https://thrishanatarajan7.neocities.org/PRODIGY_WD_01/)
+See [Demo](https://pavithra16.neocities.org/PRODIGY_WD_01/)
 
 ## Description
 
